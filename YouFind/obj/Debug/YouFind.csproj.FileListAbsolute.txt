@@ -1,0 +1,10 @@
+C:\Users\New User\source\repos\YouFind\bin\Debug\YouFind.exe.config
+C:\Users\New User\source\repos\YouFind\bin\Debug\YouFind.exe
+C:\Users\New User\source\repos\YouFind\bin\Debug\YouFind.pdb
+C:\Users\New User\source\repos\YouFind\obj\Debug\YouFind.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\YouFind\obj\Debug\YouFind.Form1.resources
+C:\Users\New User\source\repos\YouFind\obj\Debug\YouFind.Properties.Resources.resources
+C:\Users\New User\source\repos\YouFind\obj\Debug\YouFind.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\YouFind\obj\Debug\YouFind.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\YouFind\obj\Debug\YouFind.exe
+C:\Users\New User\source\repos\YouFind\obj\Debug\YouFind.pdb
